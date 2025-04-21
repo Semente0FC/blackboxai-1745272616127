@@ -1,0 +1,8 @@
+{
+    "auto_connect": true,
+    "theme": "Light",
+    "scan_interval": 5,
+    "connection_timeout": 10,
+    "firmware_check_interval": 24,
+    "beta_updates": false
+}
